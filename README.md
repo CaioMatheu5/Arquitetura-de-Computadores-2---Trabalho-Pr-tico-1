@@ -1,2 +1,2 @@
 # MIPSAssemblyExercices
-Algorithms in Assembly
+Some algorithms in Assembly
